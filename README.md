@@ -1,4 +1,4 @@
-# Target Practice
+# Block Buster  ( from Grid Rush )
 
 This is a class assignment in our Visual Scripting class using UE5's Blueprints.  
 The requirement is to make a level that uses the FPS template that allows player to shoot objects in the scene.
