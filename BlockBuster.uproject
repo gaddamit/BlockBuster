@@ -138,6 +138,10 @@
 		{
 			"Name": "OpenImageDenoise",
 			"Enabled": false
+		},
+		{
+			"Name": "AvfMedia",
+			"Enabled": false
 		}
 	]
 }
